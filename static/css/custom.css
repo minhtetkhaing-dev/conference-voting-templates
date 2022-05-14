@@ -23,14 +23,20 @@
     box-shadow: none;
 }
 
-.btn-primary{
-    background: #9553A0;
-    color: white;
+.btn-white  {
+    background: white;
+    color: black;
     border: none;
 }
 
 .btn-primary:hover{
     background: #841497;
+}
+
+.btn-primary{
+    background: #9553A0;
+    color: white;
+    border: none;
 }
 
 .text-primary{

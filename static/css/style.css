@@ -22,3 +22,7 @@
 .o-50{
     opacity: 50%;
 }
+
+p{
+ margin: 0  !important;   
+}
