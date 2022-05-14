@@ -1,0 +1,2 @@
+# conference-voting-templates
+Templates
